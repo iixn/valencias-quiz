@@ -1,7 +1,7 @@
 # valencias-quiz
 Un programa escrito en python que te pregunta las valencias de los elementos,todo automatizado
 
-# INSTALATION
+# INSTALACION
 
 ```git clone https://github.com/iixn/valencias-quiz```
 
@@ -72,3 +72,9 @@ Si no tenemos python:
  https://www.python.org/downloads/
  ```
  Esta es su pagina oficial,lo descargamos y lo instalamos como cualquier otro programa
+ * Linux
+  ```
+  sudo apt-get install python
+  ```
+  Esto es en algunas distribuciones,si por algun casual tu distribucion no usa el gestor de paquetes apt,busca como descargar python con tu gestor de paquetes.De todas formas 
+  la mayoria de veces python ya viene instalado por defecto en linux
