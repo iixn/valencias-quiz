@@ -65,3 +65,10 @@ winget install --id Git.Git -e --source winget
   ```
   tazpkg get-install git
   ```
+
+Si no tenemos python:
+ * Windows:
+ ```
+ https://www.python.org/downloads/
+ ```
+ Esta es su pagina oficial,lo descargamos y lo instalamos como cualquier otro programa
