@@ -13,4 +13,6 @@ winget install --id Git.Git -e --source winget
 ```
 * Linux
   * Debian/Ubuntu
-  apt-get install git 
+  ```
+  apt-get install git
+  ``` 
