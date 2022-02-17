@@ -8,6 +8,5 @@ Un programa escrito en python que te pregunta las valencias de los elementos,tod
 Si no tienes git :
 * Windows
 ```
- + r
-powershell
+abrimos powershell y ponemos lo siguiente:
 winget install --id Git.Git -e --source winget```
