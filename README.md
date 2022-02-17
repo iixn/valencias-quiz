@@ -6,8 +6,8 @@ Un programa escrito en python que te pregunta las valencias de los elementos,tod
 ```git clone https://github.com/iixn/valencias-quiz```
 
 Si no tienes git :
-* Windows\n
-abrimos powershell y ponemos lo siguiente:
+* Windows
+ abrimos powershell y ponemos lo siguiente:
 ```
 winget install --id Git.Git -e --source winget
 ```
