@@ -7,7 +7,7 @@ Un programa escrito en python que te pregunta las valencias de los elementos,tod
 
 Si no tienes git :
 * Windows
- abrimos powershell y ponemos lo siguiente:
+**abrimos powershell y ponemos lo siguiente:**
 ```
 winget install --id Git.Git -e --source winget
 ```
