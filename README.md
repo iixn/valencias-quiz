@@ -17,6 +17,8 @@ Si no tenemos python:
 https://www.python.org/downloads/
 ```
 Esta es su pagina oficial,lo descargamos y lo instalamos como cualquier otro programa
+
+
 Una vez instalado git y python y clonado el repositorio,nos metemos en la carpeta.
 ```
 cd valencias-quiz
