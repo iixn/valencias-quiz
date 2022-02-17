@@ -16,8 +16,52 @@ winget install --id Git.Git -e --source winget
   ```
   apt-get install git
   ``` 
- * Fedora
- ```
- yum install git
- dnf install git
- ```
+  * Fedora
+  ```
+  yum install git
+  dnf install git
+  ```
+  * Gentoo
+  ```
+  emerge --ask --verbose dev-vcs/git
+  ```
+  * Arch Linux
+  ```
+  pacman -S git
+  ```
+  * openSUSE
+  ```
+  zypper install git
+  ```
+  * Mageia
+  ```
+  urpmi git
+  ```
+  * Nix/NixOS
+  ```
+  nix-env -i git
+  ```
+  * FreeBSD
+  ```
+  pkg install git
+  ```
+  * Solaris 9/10/11
+  ```
+  pkgutil -i git
+  ```
+  * Solaris 11 Express
+  ```
+  pkg install developer/versioning/git
+  ```
+  * OpenBSD
+  ```
+  pkg_add git
+  ```
+  * Alpine
+  ```
+  apk add git
+  ```
+  * Slitaz
+  ```
+  tazpkg get-install git
+  ```
