@@ -79,4 +79,13 @@ Si no tenemos python:
   Esto es en algunas distribuciones,si por algun casual tu distribucion no usa el gestor de paquetes apt,busca como descargar python con tu gestor de paquetes.De todas formas 
   la mayoria de veces python ya viene instalado por defecto en linux
   
-  Una vez
+  Una vez instalado git y python y clonado el repositorio,nos metemos en la carpeta.
+  ```
+  cd valencias-quiz
+  ```
+  Y finalmente ejecutamos el programa
+  ```
+  python valencias-quiz.py
+  ```
+  
+  **Si quieres parar el programa usa ctrl + c**
