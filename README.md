@@ -78,3 +78,5 @@ Si no tenemos python:
   ```
   Esto es en algunas distribuciones,si por algun casual tu distribucion no usa el gestor de paquetes apt,busca como descargar python con tu gestor de paquetes.De todas formas 
   la mayoria de veces python ya viene instalado por defecto en linux
+  
+  Una vez
