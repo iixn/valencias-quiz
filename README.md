@@ -17,6 +17,7 @@ winget install --id Git.Git -e --source winget
   apt-get install git
   ``` 
  * Fedora
- ```yum install git
+ ```
+ yum install git
  dnf install git
  ```
