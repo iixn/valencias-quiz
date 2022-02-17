@@ -9,4 +9,8 @@ Si no tienes git :
 * Windows
 ```
 abrimos powershell y ponemos lo siguiente:
-winget install --id Git.Git -e --source winget```
+winget install --id Git.Git -e --source winget
+```
+* Linux
+  * Debian/Ubuntu
+  apt-get install git 
